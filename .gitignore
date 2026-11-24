@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.env
+
+venv/
+.venv/
+
+# Sessão logada do Chrome e conteúdo extraído
+.chrome_ludos/
+saida/
+*.docx
